@@ -32,6 +32,7 @@ Derived fields support performance measures: `LengthOfStayDays` and `IsReadmissi
 | `advanced_queries.sql` | Schema extensions, aggregate and window-function queries, CTE risk-classification query |
 | `stored_procedure.sql` | `ComputeQualityIndicators` procedure, execution call, and results query |
 | `ERD.jpg` | Entity relationship diagram |
+| `r_visualizations.html` | Rendered R analysis (DBI/RMariaDB): quality-indicator dashboard and chronic-disease priority map |
 
 ## Tools
 
